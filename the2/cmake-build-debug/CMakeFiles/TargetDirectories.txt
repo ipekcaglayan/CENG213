@@ -1,0 +1,3 @@
+/home/ipek/Pictures/Student Pack/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ipek/Pictures/Student Pack/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ipek/Pictures/Student Pack/cmake-build-debug/CMakeFiles/Student_Pack.dir
